@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sushitrxshh/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/sushitrxshh/LeetCode/tree/master/0036-valid-sudoku) |
 ## Math
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sushitrxshh/LeetCode/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/sushitrxshh/LeetCode/tree/master/0036-valid-sudoku) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +27,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sushitrxshh/LeetCode/tree/master/0015-3sum) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/sushitrxshh/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
