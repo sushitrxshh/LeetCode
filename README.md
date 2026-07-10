@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sushitrxshh/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/sushitrxshh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/sushitrxshh/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/sushitrxshh/LeetCode/tree/master/0036-valid-sudoku) |
 | [1288-remove-covered-intervals](https://github.com/sushitrxshh/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -58,4 +59,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sushitrxshh/LeetCode/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sushitrxshh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sushitrxshh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
