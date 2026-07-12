@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sushitrxshh/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sushitrxshh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/sushitrxshh/LeetCode/tree/master/0036-valid-sudoku) |
+| [1331-rank-transform-of-an-array](https://github.com/sushitrxshh/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0015-3sum](https://github.com/sushitrxshh/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/sushitrxshh/LeetCode/tree/master/0036-valid-sudoku) |
 | [1288-remove-covered-intervals](https://github.com/sushitrxshh/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/sushitrxshh/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 | ------- |
 | [0015-3sum](https://github.com/sushitrxshh/LeetCode/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/sushitrxshh/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/sushitrxshh/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Matrix
 |  |
 | ------- |
