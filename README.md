@@ -70,4 +70,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sushitrxshh/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/sushitrxshh/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
