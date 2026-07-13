@@ -74,4 +74,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/sushitrxshh/LeetCode/tree/master/1291-sequential-digits) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sushitrxshh/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
